@@ -6,6 +6,7 @@
 # MAGIC - First pyspark example
 # MAGIC - Do the same with SQL
 # MAGIC - Finally with pandas
+# MAGIC -i am rohith kuamr pathiwada 
 
 # COMMAND ----------
 
